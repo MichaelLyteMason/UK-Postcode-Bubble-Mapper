@@ -23,5 +23,5 @@ Plot occurrences as diameter of bubbles with scalability anywhere in the UK usin
 It is worth noting that adjusting the "scale_factor" in "heatmapValue.py" is useful for reaching the desired appearance and scaling of bubbles.
 
 
-## Policy
+## AI Policy
 As AI becomes increasingly present in the world of software development, I have began using it as a tool to speed up development of my problem solving programs. This is a case of that in which LLMs were used to assist in debugging/generating boilerplate code.

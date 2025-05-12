@@ -21,4 +21,7 @@ Plot occurrences as diameter of bubbles with scalability anywhere in the UK usin
 3. These will then be plotted on a map that covers all the postcodes included in the plotted region and will also group many of them.
 
 It is worth noting that adjusting the "scale_factor" in "heatmapValue.py" is useful for reaching the desired appearance and scaling of bubbles.
-This project was made with the use of LLMs.
+
+
+## Policy
+As AI becomes increasingly present in the world of software development, I have began using it as a tool to speed up development of my problem solving programs. This is a case of that in which LLMs were used to assist in debugging/generating boilerplate code.
